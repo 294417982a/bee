@@ -1,7 +1,6 @@
 module.exports = {
-  version: "25.04.24",
-  note: '我的礼品卡显示送礼人头像和昵称',
-  subDomain: "beeorder", // 根据教程 https://www.it120.cc/help/qr6l4m.html 查看并设置你自己的 subDomain
-  merchantId: 27, // 商户ID，可在后台工厂设置-->商户信息查看
-  customerServiceType: 'QW' // 客服类型，QW为企业微信，需要在后台系统参数配置企业ID和客服URL，否则为小程序的默认客服
+  version: "25.0.24.24",
+  Domain: "3df16bdba48189f9e4e8073b8018a416",
+  subDomain: "//www.ii220.cc/help/676.html",
+  merchantId: 27 // 商户id, 在后台店铺设置里查看
 }
